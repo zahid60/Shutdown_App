@@ -1,4 +1,4 @@
-# Shutdown App with Tkinter
+# Shutdown Application with Python 
 
 ![App Preview](screenshot.png)
 
