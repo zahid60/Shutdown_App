@@ -1,6 +1,7 @@
 # Shutdown Application with Python 
 
-![App Preview](screenshot.png)
+<img src="ShutDownApp_Hover_effects.png" alt="App Preview" width="300" height="300" />
+
 
 **Shutdown App with Tkinter** is a simple Python GUI application that allows users to perform various shutdown, restart, log-out, and restart with  time operations on their computer. It provides an intuitive interface with interactive buttons that change color when hovered over.
 
@@ -28,7 +29,7 @@
 
 ## Customize the Code
 
-You can easily customize the app by adjusting the button styles, colors, and functionality in the `shutdown_app.py` script.
+You can easily customize the app by adjusting the button styles, colors, and functionality in the `Shutdown_App.py` script.
 
 ## Compatibility
 
@@ -36,10 +37,9 @@ This app is compatible with Windows operating systems. For other operating syste
 
 ## Contributing
 
-If you'd like to contribute to this project or report any issues, please open an [issue](https://github.com/yourusername/shutdown-app/issues) or submit a [pull request](https://github.com/yourusername/shutdown-app/pulls).
+If you'd like to contribute to this project or report any issues, please open an [issue](https://github.com/zahid60/Shutdown_App/issues) or submit a [pull request](https://github.com/zahid60/Shutdown_App/pulls).
 
-
-Feel free to use, modify, and share this app as needed. We hope you find it useful!
+Feel free to use, modify, and share this app as needed.
 
 Happy coding! 😄
 
